@@ -1,0 +1,11 @@
+C:\Users\mateu\source\repos\Simple Crud\Simple Crud\bin\Debug\Simple Crud.exe.config
+C:\Users\mateu\source\repos\Simple Crud\Simple Crud\bin\Debug\Simple Crud.exe
+C:\Users\mateu\source\repos\Simple Crud\Simple Crud\bin\Debug\Simple Crud.pdb
+C:\Users\mateu\source\repos\Simple Crud\Simple Crud\obj\Debug\Simple Crud.csproj.AssemblyReference.cache
+C:\Users\mateu\source\repos\Simple Crud\Simple Crud\obj\Debug\Simple Crud.csproj.SuggestedBindingRedirects.cache
+C:\Users\mateu\source\repos\Simple Crud\Simple Crud\obj\Debug\Simple_Crud.form1.resources
+C:\Users\mateu\source\repos\Simple Crud\Simple Crud\obj\Debug\Simple_Crud.Properties.Resources.resources
+C:\Users\mateu\source\repos\Simple Crud\Simple Crud\obj\Debug\Simple Crud.csproj.GenerateResource.cache
+C:\Users\mateu\source\repos\Simple Crud\Simple Crud\obj\Debug\Simple Crud.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\Simple Crud\Simple Crud\obj\Debug\Simple Crud.exe
+C:\Users\mateu\source\repos\Simple Crud\Simple Crud\obj\Debug\Simple Crud.pdb
